@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Base_library">
+      <UniqueIdentifier>{9d327221-0ed6-474f-8696-349690d93f79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BackJoon">
+      <UniqueIdentifier>{c42f058d-1418-4a60-96f9-f6b50a3650d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BackJoon\Sort">
+      <UniqueIdentifier>{44f83e53-85ef-461a-bca6-7cc5d4cd6345}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BackJoon\Brute_Force">
+      <UniqueIdentifier>{04360951-14bb-4e37-aaa6-577058e2fc80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Algorithm">
+      <UniqueIdentifier>{2c3dcfa9-a156-4e52-9abd-a548a40f8c88}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Queue.cpp">
+      <Filter>소스 파일\Base_library</Filter>
+    </ClCompile>
+    <ClCompile Include="Linked_List.cpp">
+      <Filter>소스 파일\Base_library</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>소스 파일\Base_library</Filter>
+    </ClCompile>
+    <ClCompile Include="String.cpp">
+      <Filter>소스 파일\Base_library</Filter>
+    </ClCompile>
+    <ClCompile Include="2_Bubble_Sort.cpp">
+      <Filter>소스 파일\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute_force_1.cpp">
+      <Filter>소스 파일\BackJoon\Brute_Force</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute_force_2.cpp">
+      <Filter>소스 파일\BackJoon\Brute_Force</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute_force_3.cpp">
+      <Filter>소스 파일\BackJoon\Brute_Force</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute_force_4.cpp">
+      <Filter>소스 파일\BackJoon\Brute_Force</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute_force_5.cpp">
+      <Filter>소스 파일\BackJoon\Brute_Force</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute_force_6.cpp">
+      <Filter>소스 파일\BackJoon\Brute_Force</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute_force_7.cpp">
+      <Filter>소스 파일\BackJoon\Brute_Force</Filter>
+    </ClCompile>
+    <ClCompile Include="1_Select_Sort.cpp">
+      <Filter>소스 파일\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="3_Insertion_Sort.cpp">
+      <Filter>소스 파일\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="4_Quick_Sort.cpp">
+      <Filter>소스 파일\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort_1.cpp">
+      <Filter>소스 파일\BackJoon\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort_2.cpp">
+      <Filter>소스 파일\BackJoon\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort_3.cpp">
+      <Filter>소스 파일\BackJoon\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="5_Merge_Sort.cpp">
+      <Filter>소스 파일\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="6_Heap_Sort.cpp">
+      <Filter>소스 파일\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="7_BFS.cpp">
+      <Filter>소스 파일\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="8_DFS.cpp">
+      <Filter>소스 파일\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="9_Union_Find.cpp">
+      <Filter>소스 파일\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="10_Kruskal.cpp">
+      <Filter>소스 파일\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="11_Binary_Tree_Traversal.cpp">
+      <Filter>소스 파일\Algorithm</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
